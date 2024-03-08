@@ -1,5 +1,6 @@
 # FRAGG-Map
-This repository will contain the code for FRAGG-MAP occupancy grid 
+This repository will contain the code for FRAGG-MAP occupancy grid. 
+
 Once we get an acceptance for the relative paper the code will be made available in this repository.
 
 ### Stay Updated
